@@ -1,0 +1,23 @@
+table,
+th,
+td {
+  border: 1px solid #000;
+  border-collapse: collapse;
+}
+
+.hide-table {
+  /* display: none; */
+}
+
+.yellow {
+  color: yellow;
+}
+
+.remove-btn {
+  cursor: pointer;
+}
+
+
+/* input {
+  border-color: red;
+} */
